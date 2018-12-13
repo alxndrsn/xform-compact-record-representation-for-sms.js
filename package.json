@@ -1,6 +1,6 @@
 {
   "name": "odk-xform-compact-record-representation-for-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "https://opendatakit.github.io/xforms-spec/#compact-record-representation-(for-sms)",
   "main": "src/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alxndrsn/xform-compact-record-representation-for-sms.js.git"
+    "url": "git+ssh://git@github.com/medic/xform-compact-record-representation-for-sms.js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alxndrsn/xform-compact-record-representation-for-sms.js/issues"
+    "url": "https://github.com/medic/xform-compact-record-representation-for-sms.js/issues"
   },
-  "homepage": "https://github.com/alxndrsn/xform-compact-record-representation-for-sms.js#readme",
+  "homepage": "https://github.com/medic/xform-compact-record-representation-for-sms.js#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "jquery": "^3.3.1",
