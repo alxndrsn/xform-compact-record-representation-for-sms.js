@@ -1,7 +1,7 @@
 const assert = require('chai').assert;
 const jsdom = require("jsdom").JSDOM;
 
-describe('xform-conmpact-record-representation-for-sms', function() {
+describe('xform-compact-record-representation-for-sms', function() {
   const fn = require('../src/index');
 
   global.document = new jsdom();
